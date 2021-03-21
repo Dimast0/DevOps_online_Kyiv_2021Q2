@@ -50,9 +50,12 @@ Then I configured the USB to connect a USB flash drive on the host machine to th
 Also, I configured a shared folder to exchange data between the virtual machine and the host.  
 
 For correct access I had to add myself to the shared folders group in the Ubuntu guest. I did it by running the command:
+```sh
 sudo adduser $USER vboxsf
+```
 
 **3. Work with CLI through VBoxManage.** 
+
 I opened the cmd command line and executed basic VBoxManage commands like list, showvminfo, createvm, startvm, modifyvm, clonevm, snapshot, controlvm. Here are screenshots of the execution of some of the commands.
 
 
