@@ -51,12 +51,12 @@ Groups enable us to manage and perform functions on VMs collectively, as well as
 **Changing the state of the VM, I took several different snapshots, forming a branched tree of snapshots. 
 The way snapshots work is very similar to how Git works.**
 
-<p align="center"><img src="screenshots/4.png" height="250"/></p>
+<p align="center"><img src="screenshots/4.png" height="200"/></p>
 
 **I exported VM1 and saved it as the ubuntu_steblyna.ova file. 
 Then I created a new VM by importing the ubuntu_steblyna.ova file.**
 
-<p align="center"><img src="screenshots/5.png" height="250"/></p>
+<p align="center"><img src="screenshots/5.png" height="280"/></p>
 
 
 **2. Configuration of virtual machines** 
