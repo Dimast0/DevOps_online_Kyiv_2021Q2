@@ -63,13 +63,21 @@ Then I created a new VM by importing the ubuntu_steblyna.ova file.**
 
 **I explored VM configuration options (like general settings, system settings, display, storage, audio, network and etc.).
 Then I configured the USB to connect a USB flash drive on the host machine to the VM.**
+<p align="center">
+ <img src="screenshots/10.png" height="250"/>
+ <img src="screenshots/11.png" height="250"/>
+</p>
 
 **Also, I configured a shared folder to exchange data between the virtual machine and the host.** 
+<p align="center"><img src="screenshots/12.png" height="280"/></p>
 
 **For correct access I had to add myself to the shared folders group in the Ubuntu guest. I did it by running the command:**
 ```sh
 sudo adduser $USER vboxsf
 ```
+<p align="center"><img src="screenshots/13.png" height="240"/></p>
+<p align="center"><img src="screenshots/14.png" height="150"/></p>
+
 
 **3. Work with CLI through VBoxManage.** 
 
