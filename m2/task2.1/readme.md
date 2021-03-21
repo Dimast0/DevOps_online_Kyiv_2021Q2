@@ -71,7 +71,7 @@ Then I configured the USB to connect a USB flash drive on the host machine to th
 **Also, I configured a shared folder to exchange data between the virtual machine and the host.** 
 <p align="center"><img src="screenshots/12.png" height="280"/></p>
 
-**For correct access I had to add myself to the shared folders group in the Ubuntu guest. I did it by running the command:**
+**For correct access I had to add myself to the shared folders group in the VM. I did it by running the command:**
 ```sh
 sudo adduser $USER vboxsf
 ```
