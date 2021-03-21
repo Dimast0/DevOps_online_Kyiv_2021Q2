@@ -39,14 +39,14 @@ Firstly, I downloaded VirtualBox, installed Ubuntu on it, and got acquainted wit
 <img src="screenshots/1.png" height="200"/>
 
 Then I cloned this virtual machine and created a group of two machines. Groups enable us to manage and perform functions on VMs collectively, as well as individually.
-<img src="screenshots/2.png" height="200"/>
+<p><img src="screenshots/2.png" height="250"/></p>
 For VM1, I installed updates and VirtualBox drivers, created some files, added some images, and changed the background. 
-<img src="screenshots/3.png" height="200"/>
+<p><img src="screenshots/3.png" height="250"/></p>
 Changing the state of the VM, I took several different snapshots, forming a branched tree of snapshots. The way snapshots work is very similar to how Git works.
-<img src="screenshots/4.png" height="200"/>
+<p><img src="screenshots/4.png" height="250"/></p>
 I exported VM1 and saved it as the ubuntu_steblyna.ova file. Then I created a new VM by importing the ubuntu_steblyna.ova file.
-<img src="screenshots/5.png" height="200"/>
-<img src="screenshots/6.png" height="200"/>
+<p><img src="screenshots/5.png" height="250"/></p>
+<p><img src="screenshots/6.png" height="250"/></p>
 **2. Configuration of virtual machines** 
 
 I explored VM configuration options (like general settings, system settings, display, storage, audio, network and etc.).
