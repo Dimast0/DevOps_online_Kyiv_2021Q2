@@ -54,7 +54,9 @@ The way snapshots work is very similar to how Git works.**
 **I exported VM1 and saved it as the ubuntu_steblyna.ova file. 
 Then I created a new VM by importing the ubuntu_steblyna.ova file.**
 
-<p align="center"><img src="screenshots/5.png" height="280"/></p>
+<p align="center"><img src="screenshots/5.png" width="500"/>
+<img src="screenshots/6.png" width="300"/>
+</p>
 
 
 **2. Configuration of virtual machines** 
