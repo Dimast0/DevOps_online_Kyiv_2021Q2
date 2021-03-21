@@ -64,7 +64,7 @@ Then I created a new VM by importing the ubuntu_steblyna.ova file.**
 **I explored VM configuration options (like general settings, system settings, display, storage, audio, network and etc.).
 Then I configured the USB to connect a USB flash drive on the host machine to the VM.**
 <p align="center">
- <img src="screenshots/10.png" width="350"/>
+ <img src="screenshots/10.png" width="550"/>
  <img src="screenshots/11.png" width="350"/>
 </p>
 
