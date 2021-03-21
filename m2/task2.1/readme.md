@@ -36,6 +36,7 @@ With Type 1 hypervisors, you can assign more resources to your virtual machines 
 **1. First run VirtualBox and Virtual Machine (VM).** 
 
 Firstly, I downloaded VirtualBox and installed Ubuntu on it. I got acquainted with the possibilities of managing a virtual machine.
+![](screenshots/1.png)
 
 Then I cloned this virtual machine and created a group of two machines. Groups enable us to manage and perform functions on VMs collectively, as well as individually.
 
