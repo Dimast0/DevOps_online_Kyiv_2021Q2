@@ -35,45 +35,45 @@ With Type 1 hypervisors, you can assign more resources to your virtual machines 
 
 **1. First run VirtualBox and Virtual Machine (VM).** 
 
-Firstly, I downloaded VirtualBox, installed Ubuntu on it, and got acquainted with the possibilities of managing a virtual machine.
+**Firstly, I downloaded VirtualBox, installed Ubuntu on it, and got acquainted with the possibilities of managing a virtual machine.**
+
 <p align="center"><img src="screenshots/1.png" height="250"/></p>
 
-Then I cloned this virtual machine and created a group of two machines. 
-Groups enable us to manage and perform functions on VMs collectively, as well as individually.
+**Then I cloned this virtual machine and created a group of two machines. 
+Groups enable us to manage and perform functions on VMs collectively, as well as individually.**
 
-<p align="center"><img src="screenshots/2.png" height="250"/></p>
+<p align="center"><img src="screenshots/2.png" height="180"/></p>
 
-For VM1, I installed updates and VirtualBox drivers, created some files, added some images, and changed the background. 
+**For VM1, I installed updates and VirtualBox drivers, created some files, added some images, and changed the background.**
 
 <p align="center"><img src="screenshots/3.png" height="250"/></p>
 
-Changing the state of the VM, I took several different snapshots, forming a branched tree of snapshots. 
-The way snapshots work is very similar to how Git works.
+**Changing the state of the VM, I took several different snapshots, forming a branched tree of snapshots. 
+The way snapshots work is very similar to how Git works.**
 
 <p align="center"><img src="screenshots/4.png" height="250"/></p>
 
-I exported VM1 and saved it as the ubuntu_steblyna.ova file. 
-Then I created a new VM by importing the ubuntu_steblyna.ova file.
+**I exported VM1 and saved it as the ubuntu_steblyna.ova file. 
+Then I created a new VM by importing the ubuntu_steblyna.ova file.**
 
 <p align="center"><img src="screenshots/5.png" height="250"/></p>
 
-<p align="center"><img src="screenshots/6.png" height="250"/></p>
 
 **2. Configuration of virtual machines** 
 
-I explored VM configuration options (like general settings, system settings, display, storage, audio, network and etc.).
-Then I configured the USB to connect a USB flash drive on the host machine to the VM.
+**I explored VM configuration options (like general settings, system settings, display, storage, audio, network and etc.).
+Then I configured the USB to connect a USB flash drive on the host machine to the VM.**
 
-Also, I configured a shared folder to exchange data between the virtual machine and the host.  
+**Also, I configured a shared folder to exchange data between the virtual machine and the host.** 
 
-For correct access I had to add myself to the shared folders group in the Ubuntu guest. I did it by running the command:
+**For correct access I had to add myself to the shared folders group in the Ubuntu guest. I did it by running the command:**
 ```sh
 sudo adduser $USER vboxsf
 ```
 
 **3. Work with CLI through VBoxManage.** 
 
-I opened the cmd command line and executed basic VBoxManage commands like list, showvminfo, createvm, startvm, modifyvm, clonevm, snapshot, controlvm. Here are screenshots of the execution of some of the commands.
+**I opened the cmd command line and executed basic VBoxManage commands like list, showvminfo, createvm, startvm, modifyvm, clonevm, snapshot, controlvm. Here are screenshots of the execution of some of the commands.**
 
 
 ## PART 3. WORK WITH VAGRANT
