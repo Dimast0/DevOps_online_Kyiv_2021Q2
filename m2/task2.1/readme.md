@@ -111,12 +111,21 @@ VBoxManage modifybm
 
 <p><img src="screenshots/19.png" width="700"/></p>
 
+**Also, I created a network between VM1 and VM2 and checked such configurations as: NAT, NAT Network, Bridged adapter, Internal network and Host-only adapter.**
+**NAT:** Host<=>VM1; Host<=>VM2; VM1<|X|>VM2.
+**NAT Network:** Host<=>VM1; Host<=>VM2; VM1<=>VM2.
+**Bridged adapter:** Router<=>(Host<=>(VM1<=>VM2)) (Like Host, VM1 and VM2 in one Network. Some other host will also have access to VMs).
+**Host-only adapter:** Host works like a Router. Host<=>(VM1<=>VM2).
+**Internal network:** Host<|X|>(VM1<=>VM2) (It's a network only between VMs).
+
 ## PART 3. WORK WITH VAGRANT
 
 
 **I installed vagrant, initialized the environment with the default Vagrant box (hashicorp/precise64).
 Than I ran the VM and connected to it using the program PuTTY, via SSH.
-I recorded the date and time, then stopped and deleted the created VM.**
+I recorded the date and time, then stopped and deleted the created VM.
+I also experimented a bit with the file. 
+Vagrant turned out to be very similar to Docker.**
 
 <p><img src="screenshots/111.png" width="570"/></p>
 <p><img src="screenshots/222.png" width="570"/></p>
