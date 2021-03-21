@@ -44,14 +44,12 @@ Groups enable us to manage and perform functions on VMs collectively, as well as
 
 <p align="center"><img src="screenshots/2.png" height="180"/></p>
 
-**For VM1, I installed updates and VirtualBox drivers, created some files, added some images, and changed the background.**
-
-<p align="center"><img src="screenshots/3.png" height="250"/></p>
-
-**Changing the state of the VM, I took several different snapshots, forming a branched tree of snapshots. 
+**For VM1, I installed updates and VirtualBox drivers, created some files, added some images, and changed the background.
+Changing the state of the VM, I took several different snapshots, forming a branched tree of snapshots. 
 The way snapshots work is very similar to how Git works.**
 
-<p align="center"><img src="screenshots/4.png" height="200"/></p>
+<p align="center"><img src="screenshots/3.png" height="250"/>
+<img src="screenshots/4.png" height="200"/></p>
 
 **I exported VM1 and saved it as the ubuntu_steblyna.ova file. 
 Then I created a new VM by importing the ubuntu_steblyna.ova file.**
