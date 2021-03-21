@@ -33,4 +33,27 @@ With Type 1 hypervisors, you can assign more resources to your virtual machines 
 
 ## PART 2. WORK WITH VIRTUALBOX
 
-Some text here.
+**1. First run VirtualBox and Virtual Machine (VM).** 
+
+Firstly, I downloaded VirtualBox and installed Ubuntu on it. I got acquainted with the possibilities of managing a virtual machine.
+
+Then I cloned this virtual machine and created a group of two machines. Groups enable us to manage and perform functions on VMs collectively, as well as individually.
+
+For VM1, I installed updates and VirtualBox drivers, created some files, added some images, and changed the background. 
+
+Changing the state of the VM, I took several different snapshots, forming a branched tree of snapshots. The way snapshots work is very similar to how Git works.
+
+I exported VM1 and saved it as the ubuntu_steblyna.ova file. Then I created a new VM by importing the ubuntu_steblyna.ova file.
+
+Then I configured the USB to connect a USB flash drive on the host machine to the VM.
+
+Also, I configured a shared folder to exchange data between the virtual machine and the host.  
+
+For correct access I had to add myself to the shared folders group in the Ubuntu guest. I did it by running the command:
+sudo adduser $USER vboxsf
+
+**3. Work with CLI through VBoxManage.** 
+I opened the cmd command line and executed basic VBoxManage commands like list, showvminfo, createvm, startvm, modifyvm, clonevm, snapshot, controlvm. Here are screenshots of the execution of some of the commands.
+
+
+## PART 3. WORK WITH VAGRANT
