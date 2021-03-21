@@ -45,6 +45,9 @@ Changing the state of the VM, I took several different snapshots, forming a bran
 
 I exported VM1 and saved it as the ubuntu_steblyna.ova file. Then I created a new VM by importing the ubuntu_steblyna.ova file.
 
+**2. Configuration of virtual machines** 
+
+I explored VM configuration options (like general settings, system settings, display, storage, audio, network and etc.).
 Then I configured the USB to connect a USB flash drive on the host machine to the VM.
 
 Also, I configured a shared folder to exchange data between the virtual machine and the host.  
