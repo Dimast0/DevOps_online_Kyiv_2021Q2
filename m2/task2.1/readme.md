@@ -111,6 +111,11 @@ VBoxManage modifybm
 
 ## PART 3. WORK WITH VAGRANT
 
+
+**I installed vagrant, initialized the environment with the default Vagrant box (hashicorp/precise64).
+Than I ran the VM and connected to it using the program PuTTY, via SSH.
+I recorded the date and time, then stopped and deleted the created VM.**
+
 <p><img src="screenshots/111.png" width="700"/></p>
 <p><img src="screenshots/222.png" width="700"/></p>
 <p><img src="screenshots/333.png" width="700"/></p>
