@@ -8,7 +8,10 @@
 
  
 <br />
-<img src="https://networklessons.com/wp-content/uploads/2018/12/hypervisor-type-1-type-2.png" alt="Hypervisors: type 1 vs type 2" width="550"/>
+<p align="center">
+  <img src="https://networklessons.com/wp-content/uploads/2018/12/hypervisor-type-1-type-2.png" alt="Hypervisors: type 1 vs type 2" width="550"/>
+</p>
+
 
 **Type 1:** a hypervisor is on bare metal. VM resources are scheduled directly to the hardware by the hypervisor. 
 
