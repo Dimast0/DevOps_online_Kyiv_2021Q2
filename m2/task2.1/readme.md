@@ -83,10 +83,25 @@ sudo adduser $USER vboxsf
 **3. Work with CLI through VBoxManage.** 
 
 **I opened the cmd command line and executed basic VBoxManage commands like list, showvminfo, createvm, startvm, modifyvm, clonevm, snapshot, controlvm. Here are screenshots of the execution of some of the commands.**
+```sh
+VBoxManage list vms
+```
 <p align="center"><img src="screenshots/15.png" width="700"/></p>
+```sh
+VBoxManage startvm
+```
 <p align="center"><img src="screenshots/16.png" width="700"/></p>
+```sh
+VBoxManage snapshot
+```
 <p align="center"><img src="screenshots/17.png" width="700"/></p>
+```sh
+VBoxManage controlvm
+```
 <p align="center"><img src="screenshots/18.png" width="700"/></p>
+```sh
+VBoxManage modifybm
+```
 <p align="center"><img src="screenshots/19.png" width="700"/></p>
 
 ## PART 3. WORK WITH VAGRANT
