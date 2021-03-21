@@ -116,8 +116,8 @@ VBoxManage modifybm
 Than I ran the VM and connected to it using the program PuTTY, via SSH.
 I recorded the date and time, then stopped and deleted the created VM.**
 
-<p><img src="screenshots/111.png" width="700"/></p>
-<p><img src="screenshots/222.png" width="700"/></p>
-<p><img src="screenshots/333.png" width="700"/></p>
-<p><img src="screenshots/444.png" width="700"/></p>
-<p><img src="screenshots/555.png" width="700"/></p>
+<p><img src="screenshots/111.png" width="570"/></p>
+<p><img src="screenshots/222.png" width="570"/></p>
+<p><img src="screenshots/333.png" width="570"/></p>
+<p><img src="screenshots/444.png" width="570"/></p>
+<p><img src="screenshots/555.png" width="570"/></p>
