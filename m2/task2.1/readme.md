@@ -4,8 +4,9 @@
 
 ## PART 1. The most popular hypervisors and the main differences between them:
 
-**There are 2 different types of hypervisors that can be used for virtualization.**
-&nbsp;
+**There are 2 different types of hypervisors that can be used for virtualization.** f
+
+ 
 &nbsp;
 <img src="https://networklessons.com/wp-content/uploads/2018/12/hypervisor-type-1-type-2.png" alt="Hypervisors: type 1 vs type 2" width="650"/>
 
