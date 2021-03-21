@@ -112,3 +112,9 @@ VBoxManage modifybm
 <p><img src="screenshots/19.png" width="700"/></p>
 
 ## PART 3. WORK WITH VAGRANT
+
+<p><img src="screenshots/111.png" width="700"/></p>
+<p><img src="screenshots/222.png" width="700"/></p>
+<p><img src="screenshots/333.png" width="700"/></p>
+<p><img src="screenshots/444.png" width="700"/></p>
+<p><img src="screenshots/555.png" width="700"/></p>
