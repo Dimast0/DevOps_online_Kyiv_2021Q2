@@ -112,11 +112,18 @@ VBoxManage modifybm
 <p><img src="screenshots/19.png" width="700"/></p>
 
 **Also, I created a network between VM1 and VM2 and checked such configurations as: NAT, NAT Network, Bridged adapter, Internal network and Host-only adapter.**
+
 **NAT:** Host<=>VM1; Host<=>VM2; VM1<|X|>VM2.
+
 **NAT Network:** Host<=>VM1; Host<=>VM2; VM1<=>VM2.
+
 **Bridged adapter:** Router<=>(Host<=>(VM1<=>VM2)) (Like Host, VM1 and VM2 in one Network. Some other host will also have access to VMs).
+
 **Host-only adapter:** Host works like a Router. Host<=>(VM1<=>VM2).
+
 **Internal network:** Host<|X|>(VM1<=>VM2) (It's a network only between VMs).
+
+
 
 ## PART 3. WORK WITH VAGRANT
 
