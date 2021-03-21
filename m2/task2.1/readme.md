@@ -6,16 +6,14 @@
 
 There are 2 different types of hypervisors that can be used for virtualization.
 
-**Type 1**
-A type 1 hypervisor is on bare metal. VM resources are scheduled directly to the hardware by the hypervisor. 
+**Type 1:** a hypervisor is on bare metal. VM resources are scheduled directly to the hardware by the hypervisor. 
 
 - VMware vSphere Hypervisor
 - Microsoft Hyper-V
 - Citrix XenServer
 - KVM
 
-**Type 2**
-A type 2 hypervisor is hosted. VM resources are scheduled against a host operating system, which is then executed against the hardware. V
+**Type 2:** a hypervisor is hosted. VM resources are scheduled against a host operating system, which is then executed against the hardware.
 
 - Oracle VirtualBox
 - VMware Workstation Pro
