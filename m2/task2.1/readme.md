@@ -131,8 +131,8 @@ VBoxManage modifybm
 **I installed vagrant, initialized the environment with the default Vagrant box (hashicorp/precise64).
 Than I ran the VM and connected to it using the program PuTTY, via SSH.
 I recorded the date and time, then stopped and deleted the created VM.
-I also experimented a bit with the file. 
-Vagrant turned out to be very similar to Docker.**
+I also experimented with the Vagrantfile, changing its configuration. 
+And Vagrant turned out to be very similar to Docker.**
 
 <p><img src="screenshots/111.png" width="570"/></p>
 <p><img src="screenshots/222.png" width="570"/></p>
