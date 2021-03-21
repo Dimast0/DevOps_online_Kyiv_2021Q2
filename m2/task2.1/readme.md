@@ -117,7 +117,7 @@ VBoxManage modifybm
 
 **NAT Network:** Host<=>VM1; Host<=>VM2; VM1<=>VM2.
 
-**Bridged adapter:** Router<=>(Host<=>(VM1<=>VM2)) (Like Host, VM1 and VM2 in one Network. Some other host will also have access to VMs).
+**Bridged adapter:** Router<=>Host; Router<=>VM1; Router<=>VM2; Host<=>VM1; Host<=>VM2; VM1<=>VM2. (Host, VM1 and VM2 are in one Network.
 
 **Host-only adapter:** Host works like a Router. Host<=>(VM1<=>VM2).
 
