@@ -5,7 +5,7 @@
 ## PART 1. The most popular hypervisors and the main differences between them:
 
 **There are 2 different types of hypervisors that can be used for virtualization.**
-![hypervisor-type-1-type-2](https://networklessons.com/wp-content/uploads/2018/12/hypervisor-type-1-type-2.png =500x)*Hypervisors: type 1 vs type 2*
+<img src="https://networklessons.com/wp-content/uploads/2018/12/hypervisor-type-1-type-2.png" alt="Hypervisors: type 1 vs type 2" width="500"/>
 
 **Type 1:** a hypervisor is on bare metal. VM resources are scheduled directly to the hardware by the hypervisor. 
 
