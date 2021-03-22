@@ -82,7 +82,7 @@ sudo adduser $USER vboxsf
 
 **3. Work with CLI through VBoxManage.** 
 
-**I opened the cmd command line and executed basic VBoxManage commands like list, showvminfo, createvm, startvm, modifyvm, clonevm, snapshot, controlvm. Here are screenshots of the execution of some of the commands.**
+**I opened the cmd command line and executed basic VBoxManage commands like list, showvminfo, createvm, startvm, modifyvm, clonevm, snapshot, controlvm. Here are screenshots of some commands execution.**
 ```sh
 VBoxManage list vms
 ```
