@@ -37,8 +37,12 @@ Then I created a snapshot of the EC2 VM.
 <p><img src="screenshots/24.png" width="800"/></p>
 <p><img src="screenshots/25.png" width="800"/></p>
 
-Now finishing the report and the final tasks...
-Link to the S3 static web-page: http://dmytro-steblyna.s3-website.eu-central-1.amazonaws.com/
+
+
+
+Then I created the S3 static web-page: http://dmytro-steblyna.ml.s3-website.eu-central-1.amazonaws.com
+
+<p><img src="screenshots/26.png" width="800"/></p>
 
 Also I created a Hosted zone and connected my domain using Route 53 and checked for availability:
 
