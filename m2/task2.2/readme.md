@@ -2,7 +2,7 @@
 
 **Dmytro Steblyna**
 
-Firstly, I sregistered an AWS Free Tier account. Then I started an Amazon Linux VM with Amazon Lightsail and connected to it.
+Firstly, I registered an AWS Free Tier account. Then I started an Amazon Linux VM with Amazon Lightsail and connected to it.
 
 
 <p><img src="screenshots/1.png" width="800"/></p>
