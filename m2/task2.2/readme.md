@@ -2,8 +2,13 @@
 
 **Dmytro Steblyna**
 
+First, I signed up for an AWS Free Tier account. Then I started an Amazon Linux VM with Amazon Lightsail and connected to it.
+
+
 <p><img src="screenshots/1.png" width="800"/></p>
+Launched another Linux VM without Amazon Lightsail. I used an instance of t2.micro and an Amazon Linux operating system.
 <p><img src="screenshots/2.png" width="800"/></p>
+Then I created a snapshot of a virtual machine (no Lightsail).
 <p><img src="screenshots/3.png" width="800"/></p>
 <p><img src="screenshots/4.png" width="800"/></p>
 <p><img src="screenshots/5.png" width="800"/></p>
