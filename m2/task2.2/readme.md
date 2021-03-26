@@ -2,16 +2,22 @@
 
 **Dmytro Steblyna**
 
-![1](https://github.com/Dimast0/DevOps_online_Kyiv_2021Q2/blob/master/m2/task2.2/screenshots/1.png)
-![1](https://github.com/Dimast0/DevOps_online_Kyiv_2021Q2/tree/master/m2/task2.2/screenshots/2.png)
-![1](https://github.com/Dimast0/DevOps_online_Kyiv_2021Q2/tree/master/m2/task2.2/screenshots/3.png)
-![](https://github.com/Dimast0/DevOps_online_Kyiv_2021Q2/tree/master/m2/task2.2/screenshots/4.png)
-![](https://github.com/Dimast0/DevOps_online_Kyiv_2021Q2/tree/master/m2/task2.2/screenshots/5.png)
-![](https://github.com/Dimast0/DevOps_online_Kyiv_2021Q2/tree/master/m2/task2.2/screenshots/6.png)
-![](https://github.com/Dimast0/DevOps_online_Kyiv_2021Q2/tree/master/m2/task2.2/screenshots/7.png)
-![](https://github.com/Dimast0/DevOps_online_Kyiv_2021Q2/tree/master/m2/task2.2/screenshots/8.png)
-![](https://github.com/Dimast0/DevOps_online_Kyiv_2021Q2/tree/master/m2/task2.2/screenshots/9.png)
-![](https://github.com/Dimast0/DevOps_online_Kyiv_2021Q2/tree/master/m2/task2.2/screenshots/10.png)
-![](https://github.com/Dimast0/DevOps_online_Kyiv_2021Q2/tree/master/m2/task2.2/screenshots/11.png)
-![](https://github.com/Dimast0/DevOps_online_Kyiv_2021Q2/tree/master/m2/task2.2/screenshots/12.png)
-![](https://github.com/Dimast0/DevOps_online_Kyiv_2021Q2/tree/master/m2/task2.2/screenshots/13.png)
+<p><img src="screenshots/1.png" width="800"/></p>
+<p><img src="screenshots/2.png" width="800"/></p>
+<p><img src="screenshots/3.png" width="800"/></p>
+<p><img src="screenshots/4.png" width="800"/></p>
+<p><img src="screenshots/5.png" width="800"/></p>
+<p><img src="screenshots/6.png" width="800"/></p>
+<p><img src="screenshots/7.png" width="800"/></p>
+<p><img src="screenshots/8.png" width="800"/></p>
+<p><img src="screenshots/9.png" width="800"/></p>
+<p><img src="screenshots/10.png" width="800"/></p>
+<p><img src="screenshots/11.png" width="800"/></p>
+<p><img src="screenshots/12.png" width="800"/></p>
+<p><img src="screenshots/13.png" width="800"/></p>
+<p><img src="screenshots/14.png" width="800"/></p>
+<p><img src="screenshots/15.png" width="800"/></p>
+<p><img src="screenshots/16.png" width="800"/></p>
+<p><img src="screenshots/17.png" width="800"/></p>
+<p><img src="screenshots/18.png" width="800"/></p>
+
