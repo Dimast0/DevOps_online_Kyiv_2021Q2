@@ -2,9 +2,9 @@
 
 **Dmytro Steblyna**
 
-![](https://github.com/Dimast0/DevOps_online_Kyiv_2021Q2/tree/master/m2/task2.2/screenshots/1.png)
-![](https://github.com/Dimast0/DevOps_online_Kyiv_2021Q2/tree/master/m2/task2.2/screenshots/2.png)
-![](https://github.com/Dimast0/DevOps_online_Kyiv_2021Q2/tree/master/m2/task2.2/screenshots/3.png)
+![1](https://github.com/Dimast0/DevOps_online_Kyiv_2021Q2/blob/master/m2/task2.2/screenshots/1.png)
+![1](https://github.com/Dimast0/DevOps_online_Kyiv_2021Q2/tree/master/m2/task2.2/screenshots/2.png)
+![1](https://github.com/Dimast0/DevOps_online_Kyiv_2021Q2/tree/master/m2/task2.2/screenshots/3.png)
 ![](https://github.com/Dimast0/DevOps_online_Kyiv_2021Q2/tree/master/m2/task2.2/screenshots/4.png)
 ![](https://github.com/Dimast0/DevOps_online_Kyiv_2021Q2/tree/master/m2/task2.2/screenshots/5.png)
 ![](https://github.com/Dimast0/DevOps_online_Kyiv_2021Q2/tree/master/m2/task2.2/screenshots/6.png)
