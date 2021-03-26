@@ -39,4 +39,12 @@ Then I created a snapshot of the EC2 VM.
 
 Now finishing the report and the final tasks...
 Link to the S3 static web-page: http://dmytro-steblyna.s3-website.eu-central-1.amazonaws.com/
-Created and connected a custom domain for the page: http://dmytro-steblyna.ml/
+
+Also I created a Hosted zone and connected my domain using Route 53 and checked for availability:
+
+<p><img src="screenshots/34.png" width="800"/></p>
+<p><img src="screenshots/35.png" width="800"/></p>
+
+Then I deleted the Hosted zone to avoid unexpected expenses.
+
+<p><img src="screenshots/36.png" width="800"/></p>
