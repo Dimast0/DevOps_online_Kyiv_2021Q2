@@ -2,17 +2,17 @@
 
 **Dmytro Steblyna**
 
-Firstly, I registered an AWS Free Tier account. Then I started an Amazon Linux VM with Amazon Lightsail and connected to it.
+**Firstly, I registered an AWS Free Tier account. Then I started an Amazon Linux VM with Amazon Lightsail and connected to it.**
 
 
 <p><img src="screenshots/1.png" width="800"/></p>
 
-Launched another Linux VM without Amazon Lightsail. I used an instance of t2.micro and an Amazon Linux 2.0 operating system.
+**Launched another Linux VM without Amazon Lightsail. I used an instance of t2.micro and an Amazon Linux 2.0 operating system.**
 
 <p><img src="screenshots/2.png" width="800"/></p>
 <p><img src="screenshots/3.png" width="800"/></p>
 
-Then I created a snapshot of the EC2 VM.
+**Then I created a snapshot of the EC2 VM.**
 
 <p><img src="screenshots/4.png" width="800"/></p>
 <p><img src="screenshots/5.png" width="800"/></p>
@@ -40,11 +40,11 @@ Then I created a snapshot of the EC2 VM.
 
 ___
 
-Then I created the S3 static web-page: http://dmytro-steblyna.ml.s3-website.eu-central-1.amazonaws.com
+**12. Then I created the S3 static web-page: http://dmytro-steblyna.ml.s3-website.eu-central-1.amazonaws.com**
 
 <p><img src="screenshots/26.png" width="800"/></p>
 
-Also I created a Hosted zone and connected my domain using Route 53 and checked for availability:
+**Also I created a Hosted zone and connected my domain using Route 53 and checked for availability:**
 
 <p><img src="screenshots/34.png" width="800"/></p>
 <p><img src="screenshots/35.png" width="800"/></p>
