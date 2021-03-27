@@ -59,12 +59,13 @@ ___
 http://dmytro-steblyna.ml.s3-website.eu-central-1.amazonaws.com
 
 <p><img src="screenshots/26.png" width="800"/></p>
+<p><img src="screenshots/37.png" width="800"/></p>
 
 ## Also I created a Hosted zone and connected my domain using Route 53 and checked for availability:
 
 <p><img src="screenshots/34.png" width="800"/></p>
 <p><img src="screenshots/35.png" width="800"/></p>
 
-Then I deleted the Hosted zone to avoid unexpected expenses.
+**Then I deleted the Hosted zone to avoid unexpected expenses.**
 
 <p><img src="screenshots/36.png" width="800"/></p>
