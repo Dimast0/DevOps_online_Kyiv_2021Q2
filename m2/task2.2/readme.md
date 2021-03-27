@@ -40,7 +40,8 @@
 
 ___
 
-**12. Then I created the S3 static web-page: http://dmytro-steblyna.ml.s3-website.eu-central-1.amazonaws.com**
+## 12. Then I created the S3 static web-page: 
+http://dmytro-steblyna.ml.s3-website.eu-central-1.amazonaws.com**
 
 <p><img src="screenshots/26.png" width="800"/></p>
 
