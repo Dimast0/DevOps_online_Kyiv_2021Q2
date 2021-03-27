@@ -34,9 +34,9 @@
 <p><img src="screenshots/13.png" width="800"/></p>
 <p><img src="screenshots/14.png" width="800"/></p>
 <p><img src="screenshots/15.png" width="800"/></p>
+<p><img src="screenshots/16.png" width="800"/></p>
 
 ## Launched and configured a WordPress instance with Amazon Lightsail
-<p><img src="screenshots/16.png" width="800"/></p>
 <p><img src="screenshots/17.png" width="800"/></p>
 <p><img src="screenshots/18.png" width="800"/></p>
 
