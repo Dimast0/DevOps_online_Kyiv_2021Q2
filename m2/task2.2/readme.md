@@ -38,7 +38,7 @@ Then I created a snapshot of the EC2 VM.
 <p><img src="screenshots/25.png" width="800"/></p>
 
 
-
+___
 
 Then I created the S3 static web-page: http://dmytro-steblyna.ml.s3-website.eu-central-1.amazonaws.com
 
