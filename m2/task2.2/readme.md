@@ -52,7 +52,12 @@
 <p><img src="screenshots/24.png" width="800"/></p>
 <p><img src="screenshots/25.png" width="800"/></p>
 
+##  Elastic Container Service
+**I created a container (based on the demo application), a cluster, and a service. And then started the application. Also, updated the task several times.**
 
+<p><img src="screenshots/38.png" width="800"/></p>
+<p><img src="screenshots/39.png" width="800"/></p>
+<p><img src="screenshots/40.png" width="800"/></p>
 ___
 
 ## Then I created the S3 static web-page: 
