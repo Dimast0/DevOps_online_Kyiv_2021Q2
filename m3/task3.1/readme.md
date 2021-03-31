@@ -4,7 +4,8 @@
 
 
 # PART 1
-(Finishing the report)
+
+## The database schema.
 
 <p><img src="screenshots/3.png" width="800"/></p>
 
