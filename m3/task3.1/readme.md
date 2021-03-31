@@ -11,7 +11,7 @@
 
 ## Firstly, I created a DB, Then tables.
 
-<p><img src="screenshots/o.png" width="800"/></p>
+<p><img src="screenshots/0.png" width="800"/></p>
 
 <p><img src="screenshots/1.png" width="800"/></p>
 
