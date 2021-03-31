@@ -19,6 +19,9 @@
 
 <p><img src="screenshots/1.png" width="800"/></p>
 
+
+(Finishing the report)
+
 # PART 2
 (Finishing the report)
 
