@@ -9,9 +9,13 @@
 
 <p><img src="screenshots/3.png" width="800"/></p>
 
-## Firstly, I created a DB, Then tables.
+## Firstly, I created a DB.
 
 <p><img src="screenshots/0.png" width="800"/></p>
+
+## Then I created the tables.
+
+<p><img src="screenshots/1.png" width="800"/></p>
 
 <p><img src="screenshots/1.png" width="800"/></p>
 
