@@ -19,6 +19,9 @@
 
 <p><img src="screenshots/1.png" width="800"/></p>
 
+## Entering some data into the database:
+
+<p><img src="screenshots/21.png" width="800"/></p>
 
 (Finishing the report)
 
