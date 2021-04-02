@@ -9,19 +9,20 @@
 
 <p><img src="screenshots/3.png" width="800"/></p>
 
-## Firstly, I created a DB.
+## Firstly, I created a DB called "EdTech".
 
 <p><img src="screenshots/0.png" width="800"/></p>
 
-## Then I created the tables.
+## Then I created 3 tables. And filled them with some data.
 
-<p><img src="screenshots/2.png" width="800"/></p>
+<p><img src="screenshots/40.png" width="800"/></p>
 
-<p><img src="screenshots/1.png" width="800"/></p>
+<p><img src="screenshots/41.png" width="800"/></p>
 
-## Entering some data into the database:
+<p><img src="screenshots/42.png" width="800"/></p>
 
-<p><img src="screenshots/21.png" width="800"/></p>
+## Constructed and executed SELECT operator with FROM, WHERE, GROUP BY, and ORDER BY.
+<p><img src="screenshots/43.png" width="800"/></p>
 
 (Finishing the report)
 
