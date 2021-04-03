@@ -21,8 +21,18 @@
 
 <p><img src="screenshots/42.png" width="800"/></p>
 
-## Constructed and executed SELECT operator with FROM, WHERE, GROUP BY, and ORDER BY.
+## Also, I constructed and executed SELECT operator with FROM, WHERE, GROUP BY, and ORDER BY.
 <p><img src="screenshots/43.png" width="800"/></p>
+
+## Some other different SQL queries
+
+**Let's count the number of students who have completed at least one course:**
+
+<p><img src="screenshots/44.png" width="800"/></p>
+
+**Let's find the best and worst students:**
+
+<p><img src="screenshots/45.png" width="800"/></p>
 
 (Finishing the report)
 
