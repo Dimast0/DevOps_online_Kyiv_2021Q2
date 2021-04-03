@@ -24,7 +24,7 @@
 ## I constructed and executed SELECT operator with FROM, WHERE, GROUP BY, and ORDER BY.
 <p><img src="screenshots/43.png" width="800"/></p>
 
-## Some other SQL queries
+## Some other SQL queries.
 
 **Let's count the number of students who have completed at least one course:**
 
@@ -34,14 +34,13 @@
 
 <p><img src="screenshots/45.png" width="800"/></p>
 
-## Also, I made backup of my database, deleted two tables and then restored my DB from the backup.
-
-<p><img src="screenshots/46.png" width="800"/></p>
-
 (Finishing the report)
 
 # PART 2
-(Finishing the report)
+
+## I made backup of my database, deleted two tables and then restored my DB from the backup.
+
+<p><img src="screenshots/46.png" width="800"/></p>
 
 # PART 3
 
@@ -55,10 +54,10 @@
 
 <p><img src="screenshots/35.png" width="800"/></p>
 
-## Query the table using Query:
+## Querying the table using Query:
 
 <p><img src="screenshots/36.png" width="800"/></p>
 
-## Query the table using Scan:
+## Querying the table using Scan:
 
 <p><img src="screenshots/37.png" width="800"/></p>
