@@ -21,10 +21,10 @@
 
 <p><img src="screenshots/42.png" width="800"/></p>
 
-## Also, I constructed and executed SELECT operator with FROM, WHERE, GROUP BY, and ORDER BY.
+## I constructed and executed SELECT operator with FROM, WHERE, GROUP BY, and ORDER BY.
 <p><img src="screenshots/43.png" width="800"/></p>
 
-## Some other different SQL queries
+## Some other SQL queries
 
 **Let's count the number of students who have completed at least one course:**
 
@@ -33,6 +33,10 @@
 **Let's find the best and worst students:**
 
 <p><img src="screenshots/45.png" width="800"/></p>
+
+## Also, I made backup of my database, deleted two tables and then restored my DB from the backup.
+
+<p><img src="screenshots/46.png" width="800"/></p>
 
 (Finishing the report)
 
