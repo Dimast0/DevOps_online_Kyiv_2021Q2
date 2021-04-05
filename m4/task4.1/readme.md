@@ -1,8 +1,8 @@
 # Report task 4.1.
 
 **Module 4. Networking Fundamentals**
-**Dmytro Steblyna**
 
+**Dmytro Steblyna**
 
 **I created a project with 4 computers and a hub. Assigned an IP to each computer. Checked the network functionality and traced packets.**
 
