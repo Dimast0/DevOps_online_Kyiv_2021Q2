@@ -42,6 +42,20 @@
 
 <p><img src="screenshots/46.png" width="800"/></p>
 
+## Then I created a new database in Amazon RDS, connected to it and imported my database from the backup.
+
+<p><img src="screenshots/51.png" width="800"/></p>
+
+<p><img src="screenshots/47.png" width="800"/></p>
+
+<p><img src="screenshots/48.png" width="800"/></p>
+
+<p><img src="screenshots/49.png" width="800"/></p>
+
+<p><img src="screenshots/50.png" width="800"/></p>
+
+**I also executed some operator**
+
 # PART 3
 
 ## Creating an Amazon DynamoDB table:
