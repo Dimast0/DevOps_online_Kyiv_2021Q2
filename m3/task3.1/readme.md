@@ -24,7 +24,7 @@
 ## I constructed and executed SELECT operator with FROM, WHERE, GROUP BY, and ORDER BY.
 <p><img src="screenshots/43.png" width="800"/></p>
 
-## Some other SQL queries.
+## Executed some other SQL queries.
 
 **Let's count the number of students who have completed at least one course:**
 
@@ -34,7 +34,9 @@
 
 <p><img src="screenshots/45.png" width="800"/></p>
 
-(Finishing the report)
+## Made a selection from the user table in the main DB MySQL.
+
+<p><img src="screenshots/54.png" width="800"/></p>
 
 # PART 2
 
