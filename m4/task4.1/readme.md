@@ -26,7 +26,7 @@
 
 <p><img src="screenshots/6.png" width="900"/></p>
 
-**So, we see that a hub sends packets to all clients in the hope that one of them will accept it. When the switch sends packets only to the client to whom they are addressed. The switch loads the network less and provides a more secure connection.**
+**So, we can see that a hub sends packets to all clients in the hope that one of them will accept it. When the switch sends packets only to the client to whom they are addressed. The switch loads the network less and provides a more secure connection.**
 
 
 **Then I created a network that consists of two switches and 8 computers. And checked the network functionality.**
