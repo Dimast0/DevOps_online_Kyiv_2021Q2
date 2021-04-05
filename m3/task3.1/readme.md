@@ -54,7 +54,12 @@
 
 <p><img src="screenshots/50.png" width="800"/></p>
 
-**I also executed some operator**
+**I also executed a SELECT operator**
+<p><img src="screenshots/52.png" width="800"/></p>
+
+## And I created the dump of the remote DB.
+
+<p><img src="screenshots/53.png" width="800"/></p>
 
 # PART 3
 
