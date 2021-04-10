@@ -8,6 +8,6 @@
 
 <p><img src="screenshots/1.png" width="900"/></p>
 
-**After configuration, I checked the ability to transfer data via ICMP between all objects on the network.**
+**After configuration, I checked the ability to transfer data via ICMP between different objects on the network.**
 
 <p><img src="screenshots/2.png" width="900"/></p>
