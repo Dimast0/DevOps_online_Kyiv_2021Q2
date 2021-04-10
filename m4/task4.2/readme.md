@@ -21,8 +21,8 @@
 
 # TASK 3
 
-<p><img src="screenshots/7.png" width="900"/></p>
+<p><img src="screenshots/7.png" /></p>
 
-<p><img src="screenshots/8.png" width="900"/></p>
+<p><img src="screenshots/8.png"/></p>
 
-<p><img src="screenshots/9.png" width="900"/></p>
+<p><img src="screenshots/9.png" width="700"/></p>
