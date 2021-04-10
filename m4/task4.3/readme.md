@@ -1,5 +1,5 @@
 # Task 4.3 
-**(Module 4. Networking Fundamentals)**
+**Module 4. Networking Fundamentals**
 
 **Dmytro Steblyna**
 
