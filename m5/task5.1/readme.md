@@ -2,8 +2,12 @@
 **Dmytro Steblyna**
 
 # Part 1
-- ****
+- **(finishing the report now)**
+
 <p><img src="screenshots/1.png"/></p>
+
+- **The "/etc/passwd" file contains information about the users on the system. Each line describes a distinct user.**
+
 <p><img src="screenshots/2.png"/></p>
 <p><img src="screenshots/31.png"/></p>
 <p><img src="screenshots/32.png"/></p>
