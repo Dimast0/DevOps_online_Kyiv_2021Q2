@@ -25,7 +25,8 @@ execution?
 <p><img src="screenshots/7.png"/></p>
 
 - **8)List the contents of the home directory using the ls command, define its files and directories. Hint: Use the help system to familiarize yourself with the ls command.**
-<p><img src="screenshots/7.png"/></p>
+<p><img src="screenshots/8.png"/></p>
 
 # Part 2
+- **1)Examine the tree command. Master the technique of applying a template, for example, display all files that contain a character c, or files that contain a specific sequence of characters. List subdirectories of the root directory up to and including the second nesting level.**
 (finishing)
