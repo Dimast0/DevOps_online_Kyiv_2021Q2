@@ -3,7 +3,7 @@
 
 # Part 1
 
-- **1-2) Log in to the system as root. Use the passwd command to change the password. Examine the basic parameters of the command. What system file does it change?**
+**1. (-2) Log in to the system as root. Use the passwd command to change the password. Examine the basic parameters of the command. What system file does it change?**
 <p><img src="screenshots/1.png"/></p>
 
 **The command changes the "/etc/passwd" file that contains information about the users on the system.**
