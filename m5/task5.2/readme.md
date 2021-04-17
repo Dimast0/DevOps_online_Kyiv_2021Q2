@@ -1,3 +1,6 @@
+## Task 5.2
+**Dmytro Steblyna**
+
 ## 1) Analyze the structure of the /etc/passwd and /etc/group file, what fields are present in it, what users exist on the system? Specify several pseudo-users, how to define them?
 **The "/etc/passwd" file contains information about the users on the system. Each line describes a distinct user. Each line has the next structure: **
 ```username:password:UID(user_id):GID(group_id):user_id_info(a comment field):home_directory:command/shell```
