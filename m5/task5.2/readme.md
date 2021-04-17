@@ -129,5 +129,5 @@ The default creation permissions for files are 666 and for directories 777. To c
 **We can see than Pedro can easily create files in the folder, but he has no permission to delete the folder.**
 
 ## 17) What file attributes should be present in the command script?
-**The file should be executable for users.**
+**The file must be executable for users so that the script can run.**
 
