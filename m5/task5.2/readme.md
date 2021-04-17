@@ -5,10 +5,12 @@
 
 <p><img src="screenshots/1.png"/></p>
 
-**The "/etc/passwd" file contains information about the users on the system. Each line describes a distinct user. Each line has the next structure: **
+**The "/etc/passwd" file contains information about the users on the system. Each line describes a distinct user. Each line has the next structure:**
+
 ```username:password:UID(user_id):GID(group_id):user_id_info(a comment field):home_directory:command/shell```
 
 **The "/etc/group " file applies to the general security scheme for Unix-like systems: user, group, and file access.**
+
 ```group_name:password:group_id:list```
 
 **These two files contain information about both real and pseudo-users. The most common pseudo-users:**
@@ -32,6 +34,7 @@
 
 ## 4) How to determine belonging of user to the specific group?
 **We can see the groups the user belongs to by typing the following command:**
+
 ```groups username```
 <p><img src="screenshots/2.png"/></p>
 
