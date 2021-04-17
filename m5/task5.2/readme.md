@@ -58,7 +58,12 @@ When creating a new user, this option is only valid if the -m (or --create-home)
 ## 9) What commands and keys should be used to lock and unlock a user account?
 **To lock a users account we can use the command usermod -L or passwd -l.**
 ```usermod --lock user or # passwd --lock user```
+
 ```usermod --unlock user```
+
+<p><img src="screenshots/12.png"/></p>
+<p><img src="screenshots/13.png"/></p>
+
 
 ## 10) How to remove a user's password and provide him with a password-free login for subsequent password change?
 ```passwd -d [username]```
@@ -83,6 +88,7 @@ When creating a new user, this option is only valid if the -m (or --create-home)
 ## 14) What commands are used to change the owner of a file (directory), as well as the mode of access to the file? Give examples, demonstrate on the terminal.
 **We can use chown to change ownership and chmod to change rights.**
 -	-R option is used to apply the rights for all files inside of a directory too.
+-	
 <p><img src="screenshots/6.png"/></p>
 <p><img src="screenshots/7.png"/></p>
 
