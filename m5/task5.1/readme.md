@@ -11,7 +11,26 @@
 
 
 # 3) Determine the users registered in the system, as well as what commands they execute. What additional information can be gleaned from the command execution?
+
+**We can use the ```w``` command:**
 <p><img src="screenshots/2.png"/></p>
+
+**The header displays the following fields:**
+- current time,
+- system uptime without rebooting (uptime),
+- the number of users currently working,
+- the average value of the system load for the last 1, 5 and 15 minutes (Load averages).
+
+**The following fields are displayed in the table for each user:**
+- USER is the username.
+- TTY is the name of the terminal.
+- FROM is the name of the remote computer or IP address.
+- LOGIN is the time of logging into the system.
+- IDLE - idle time.
+- JCPU is the time used by all processes connected to the tty. It does not include completed background jobs, but it does include background jobs that are currently running.
+- PCPU is the time used by the current process, which is specified in the WHAT field.
+- WHAT is the current process (command line of the current process).
+
 
 # 4) Change personal information about yourself.**
 <p><img src="screenshots/4.png"/></p>
