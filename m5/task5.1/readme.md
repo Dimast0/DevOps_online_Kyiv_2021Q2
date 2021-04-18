@@ -68,7 +68,10 @@
 **One of to the reasons why ```less``` was introduced was to allow backward movement line by line. It has a lot of commands that are similar to the vi text editor’s commands, and it - supports horizontal scrolling, live monitoring, and more.**
 
 <p><img src="screenshots/6.png"/></p>
+
+**We can use ```w -h -s``` to display the result of ```w``` command without the header and in mode:**
 <p><img src="screenshots/10.png"/></p>
+**We can use ```usermod username -c "Comment"``` to change the comment field in the "/etc/passwd" file:**
 <p><img src="screenshots/11.png"/></p>
 
 # 7) Describe in plans that you are working on laboratory work 1. Tip: You should read the documentation for the finger command.
