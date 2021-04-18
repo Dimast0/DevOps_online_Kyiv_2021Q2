@@ -32,7 +32,7 @@
 - WHAT is the current process (command line of the current process).
 
 
-# 4) Change personal information about yourself.**
+# 4) Change personal information about yourself.
 **Let's use the ```usermod [options] username``` command to change some information about the user:**
 <p><img src="screenshots/4.png"/></p>
 
@@ -55,6 +55,18 @@
 <p><img src="screenshots/5.png"/></p>
 
 # 6) Explore the more and less commands using the help system. View the contents of files .bash* using commands.
+
+**```more``` is one of the oldest terminal pagers in the UNIX ecosystem. Originally, ```more``` could only scroll down, but now we can use it to scroll up one screen-full at a time, and scroll down either one line or one screen-full. On its status bar, ```more``` shows the percentage of the file read. It automatically closes when it reaches the end of the file without having to press a button.**
+
+**```more``` has many interactive commands like:**
+- space – to go to the next page in accordance with the terminal’s size
+- b – to go back one page
+- enter – to scroll down one line
+- = – to display the current line number
+- :v – to start up the vi text editor at the current line
+
+**One of to the reasons why ```less``` was introduced was to allow backward movement line by line. It has a lot of commands that are similar to the vi text editor’s commands, and it - supports horizontal scrolling, live monitoring, and more.**
+
 <p><img src="screenshots/6.png"/></p>
 
 # 7) Describe in plans that you are working on laboratory work 1. Tip: You should read the documentation for the finger command.
