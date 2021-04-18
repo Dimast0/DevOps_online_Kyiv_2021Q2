@@ -33,7 +33,23 @@
 
 
 # 4) Change personal information about yourself.**
+**Let's use the ```usermod [options] username``` command to change some information about the user:**
 <p><img src="screenshots/4.png"/></p>
+
+**Options:**
+- -c = We can add comment field for the useraccount.
+- -d = To modify the directory for any existing user account.
+- -e = Using this option we can make the account expiry in specific period.
+- -g = Change the primary group for a User.
+- -G = To add a supplementary groups.
+- -a = To add anyone of the group to a secondary group.
+- -l = To change the login name from tecmint to tecmint_admin.
+- -L = To lock the user account. This will lock the password so we can’t use the account.
+- -m = moving the contents of the home directory from existing home dir to new dir.
+- -p = To Use un-encrypted password for the new password. (NOT Secured).
+- -s = Create a Specified shell for new accounts.
+- -u = Used to Assigned UID for the user account between 0 to 999.
+- -U = To unlock the user accounts. This will remove the password lock and allow us to use the user account.
 
 # 5)Become familiar with the Linux help system and the man and info commands. Get help on the previously discussed commands, define and describe any two keys for these commands. Give examples.
 <p><img src="screenshots/5.png"/></p>
