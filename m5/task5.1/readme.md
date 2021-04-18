@@ -54,6 +54,15 @@
 # 5)Become familiar with the Linux help system and the man and info commands. Get help on the previously discussed commands, define and describe any two keys for these commands. Give examples.
 <p><img src="screenshots/5.png"/></p>
 
+
+**We can use ```w -h -s``` to display the result of ```w``` command without the header and in short format:**
+
+<p><img src="screenshots/10.png"/></p>
+
+**We can use ```usermod username -c "Some comment/info"``` to change the comment field in the "/etc/passwd" file:**
+
+<p><img src="screenshots/11.png"/></p>
+
 # 6) Explore the more and less commands using the help system. View the contents of files .bash* using commands.
 
 **```more``` is one of the oldest terminal pagers in the UNIX ecosystem. Originally, ```more``` could only scroll down, but now we can use it to scroll up one screen-full at a time, and scroll down either one line or one screen-full. On its status bar, ```more``` shows the percentage of the file read. It automatically closes when it reaches the end of the file without having to press a button.**
@@ -68,11 +77,6 @@
 **One of to the reasons why ```less``` was introduced was to allow backward movement line by line. It has a lot of commands that are similar to the vi text editor’s commands, and it - supports horizontal scrolling, live monitoring, and more.**
 
 <p><img src="screenshots/6.png"/></p>
-
-**We can use ```w -h -s``` to display the result of ```w``` command without the header and in mode:**
-<p><img src="screenshots/10.png"/></p>
-**We can use ```usermod username -c "Comment"``` to change the comment field in the "/etc/passwd" file:**
-<p><img src="screenshots/11.png"/></p>
 
 # 7) Describe in plans that you are working on laboratory work 1. Tip: You should read the documentation for the finger command.
 <p><img src="screenshots/7.png"/></p>
