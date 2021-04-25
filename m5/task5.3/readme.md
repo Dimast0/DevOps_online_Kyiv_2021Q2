@@ -6,7 +6,7 @@ A Linux process has 5 states: created, ready, waiting, running, and terminated. 
 
 ## 2. Examine the pstree command. Make output (highlight) the chain (ancestors) of the current process. 
 ```pstree``` shows running processes as a tree. 
-screen
+<p><img src="screenshots/1.png"/></p>
 
 ## 3. What is a proc file system? 
 **From RedHat Documentation:**
@@ -19,19 +19,20 @@ For organizational purposes, files containing information on a similar topic are
 
 ## 4. Print information about the processor (its type, supported technologies, etc.). 
 To view information about the processor, we can take a look at the cpuinfo file in the proc directory.
-screen
+<p><img src="screenshots/2.png"/></p>
 
 ## 5. Use the ps command to get information about the process. The information should be as follows: the owner of the process, the arguments with which the process was launched for execution, the group owner of this process, etc. 
-screen
+<p><img src="screenshots/3.png"/></p>
 
 ## 6. How to define kernel processes and user processes? 
 VSZ field is equal to 0. Kernel processes do not have their own address space, they operate within kernel address space only.
 
 ## 7. Print the list of processes to the terminal. Briefly describe the statuses of the processes. What condition are they in, or can they be arriving in? 
 R (running), S (interruptible sleep (waiting for an event to complete)), D (uninterruptible sleep (waiting for I/O)), T (stopped), Z (zombie), X (dead).
+<p><img src="screenshots/4.png"/></p>
 
 ## 8. Display only the processes of a specific user. 
-screen
+<p><img src="screenshots/5.png"/></p>
 
 ## 9. What utilities can be used to analyze existing running tasks (by analyzing the help for the ps command)? 
 We can use ```top```, ```htop```, ```pstree```.
@@ -42,17 +43,21 @@ We can use ```top```, ```htop```, ```pstree```.
 ## 11. Display the processes of the specific user using the top command. 
 ```top -U dimast```
 
+<p><img src="screenshots/6.png"/></p>
+
 ## 12. What interactive commands can be used to control the top command? Give a couple of examples. 
 **For example, can use:**
-- <Shift>+<N> to sort by PID;
-- <Shift>+<P> to sort by CPU usage;
-- <Shift>+<M> to sort by Memory usage;
-- <Shift>+<T> to sort by Time usage;
-- <Shift>+<Z> to change colors;
-- <c> to display absolute path of command;
+- Shift+N to sort by PID;
+- Shift+P to sort by CPU usage;
+- Shift+M to sort by Memory usage;
+- Shift+T to sort by Time usage;
+- Shift+Z to change colors;
+- C to display absolute path of command;
 
 ## 13. Sort the contents of the processes window using various parameters (for example, the amount of processor time taken up, etc.) 
-Screen
+**Processes sorted by the processor time usage and tthe memory usage.**
+
+<p><img src="screenshots/7.png"/></p>
 
 ## 14. Concept of priority, what commands are used to set priority? 
 **All the processes in Linux are started with a specific priority. By default, all regular processes are started with the priority equal to 20. You can change the priority using the nice and renice commands.**
@@ -63,8 +68,9 @@ Screen
 When using nice or renice, we can select from priority values ranging from -20 to 19. The default niceness of a process is set to 0 (which results in the priority value of 20). By applying a negative niceness, you increase the priority. Use a positive niceness to decrease the priority. It is a good idea to use increments of 5 and see how it gradually affects the application.
 
 ## 15. Can I change the priority of a process using the top command? If so, how? 
-We can start top utility and press r. Then we will be able to enter PID and change its niceness.
-screen
+**We can start top utility and press r. Then we will be able to enter PID and change its niceness.**
+
+<p><img src="screenshots/8.png"/></p>
 
 ## 16. Examine the kill command. How to send with the kill command process control signal? Give an example of commonly used signals. 
 **The ```kill``` command is used to send a signal to a process. The most common use is when we need to stop a process. To do this, we can use: kill PID command. The command sends the SIGTERM signal to the process, which normally causes the process to stop its activity.**
@@ -81,3 +87,6 @@ Sometimes the kill command does not work because the process we want to kill is 
 - ```fg``` moves a job to the foreground.
 - ```bg``` moves a job to the background.
 - ```nohup``` allows jobs to continue after logout. We can stop nohup process using ```kill```.
+
+<p><img src="screenshots/9.png"/></p>
+<p><img src="screenshots/10.png"/></p>
