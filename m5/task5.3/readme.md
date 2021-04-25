@@ -50,7 +50,7 @@ In the COMMAND field when ```ps``` is executed, we see square brackets, when it 
 <p><img src="screenshots/5.png"/></p>
 
 ## 9. What utilities can be used to analyze existing running tasks (by analyzing the help for the ps command)? 
-We can use ```top```, ```htop```, ```pstree```.
+**We can use ```top```, ```htop```, ```pstree```. They are all pretty similar.**
 
 ## 10. What information does top command display?
 ```top``` **displays Linux processes. The command provides a dynamic real-time view of a running system.  It can display system summary information as well as a list of processes or threads currently being managed by the Linux kernel.**
