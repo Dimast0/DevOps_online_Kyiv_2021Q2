@@ -2,17 +2,19 @@
 **Dmytro Steblyna**
 
 ## 1. How many states could have a process in Linux? 
-A Linux¬ process has 5 states: created, ready, waiting, running, and terminated. They can be controlled by a user via the init process.
+A Linux process has 5 states: created, ready, waiting, running, and terminated. They can be controlled by a user via the init process.
 
 ## 2. Examine the pstree command. Make output (highlight) the chain (ancestors) of the current process. 
-pstree shows running processes as a tree. 
+```pstree``` shows running processes as a tree. 
 screen
 
 ## 3. What is a proc file system? 
-From RedHat Documentation.
+**From RedHat Documentation:**
 Under Linux, all data are stored as files. We are familiar with the two primary types of files: text and binary. But the /proc/ directory contains another type of file called a virtual file. It is for this reason that /proc/ is often referred to as a virtual file system.
+
 These virtual files have unique qualities. Most of them are listed as zero bytes in size and yet when one is viewed, it can contain a large amount of information. In addition, most of the time and date settings on virtual files reflect the current time and date, indicative of the fact they are constantly updated.
 Virtual files such as /proc/interrupts, /proc/meminfo, /proc/mounts, and /proc/partitions provide an up-to-the-moment glimpse of the system's hardware. Others, like the /proc/filesystems file and the /proc/sys/ directory provide system configuration information and interfaces.
+
 For organizational purposes, files containing information on a similar topic are grouped into virtual directories and sub-directories. For instance, /proc/ide/ contains information for all physical IDE devices. Likewise, process directories contain information about each running process on the system.
 
 ## 4. Print information about the processor (its type, supported technologies, etc.). 
@@ -32,10 +34,10 @@ R (running), S (interruptible sleep (waiting for an event to complete)), D (unin
 screen
 
 ## 9. What utilities can be used to analyze existing running tasks (by analyzing the help for the ps command)? 
-We can use top, htop, pstree.
+We can use ```top```, ```htop```, ```pstree```.
 
 ## 10. What information does top command display?
-top displays Linux processes. The command provides a dynamic real-time view of a running system.  It can display system summary information as well as a list of processes or threads currently being managed by the Linux kernel.  
+```top``` displays Linux processes. The command provides a dynamic real-time view of a running system.  It can display system summary information as well as a list of processes or threads currently being managed by the Linux kernel.  
 
 ## 11. Display the processes of the specific user using the top command. 
 ```top -U dimast```
