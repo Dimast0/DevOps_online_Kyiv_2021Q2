@@ -48,7 +48,7 @@ We can use ```top```, ```htop```, ```pstree```.
 ```top``` displays Linux processes. The command provides a dynamic real-time view of a running system.  It can display system summary information as well as a list of processes or threads currently being managed by the Linux kernel.  
 
 ## 11. Display the processes of the specific user using the top command. 
-```top -U dimast```
+```top -U username```
 
 <p><img src="screenshots/6.png"/></p>
 
@@ -97,3 +97,5 @@ Sometimes the kill command does not work because the process we want to kill is 
 
 <p><img src="screenshots/9.png"/></p>
 <p><img src="screenshots/10.png"/></p>
+
+## PART 2
