@@ -101,7 +101,11 @@ Sometimes the kill command does not work because the process we want to kill is 
 ## PART 2
 
 ## 1. Check the implementability of the most frequently used OPENSSH commands in the MS Windows operating system. (Description of the expected result of the commands + screenshots: command – result should be presented) 
-```ssh user@host``` and ```ssh-keygen``` commands work but ```ssh-copy-id user@host``` command doesn’t work in Windows.
+- ```ssh user@host``` **command works;**
+- ```ssh-keygen``` **command works;**
+- ```ssh-copy-id user@host``` **command doesn’t work.**
+
+**Screenshots:**
 
 <p><img src="screenshots/111.png"/></p>
 <p><img src="screenshots/112.png"/></p>
@@ -115,10 +119,10 @@ Sometimes the kill command does not work because the process we want to kill is 
 
 ## 3. List the options for choosing keys for encryption in SSH. Implement 3 of them. 
 **SSH supports several public key algorithms for authentication keys.**
-- rsa - an old algorithm based on the difficulty of factoring large numbers. A recommended key size of at least is 2048 bits; 4096 bits is better. 
-- dsa - an old US government Digital Signature Algorithm. It is based on the difficulty of computing discrete logarithms. A key size of 1024 would normally be used with it. DSA in its original form is no longer recommended.
-- ecdsa - a new Digital Signature Algorithm standarized by the US government, using elliptic curves. Only three key sizes are supported: 256, 384, and 521 bits. Recommended using it with 521 bits, since the keys are still small. 
-- ed25519 - a new algorithm added in OpenSSH. Support for it in clients is not yet universal. 
+- **rsa** - an old algorithm based on the difficulty of factoring large numbers. A recommended key size of at least is 2048 bits; 4096 bits is better. 
+- **dsa** - an old US government Digital Signature Algorithm. It is based on the difficulty of computing discrete logarithms. A key size of 1024 would normally be used with it. DSA in its original form is no longer recommended.
+- **ecdsa** - a new Digital Signature Algorithm standarized by the US government, using elliptic curves. Only three key sizes are supported: 256, 384, and 521 bits. Recommended using it with 521 bits, since the keys are still small. 
+- **ed25519** - a new algorithm added in OpenSSH. Support for it in clients is not yet universal. 
 
 <p><img src="screenshots/16.png"/></p>
 
