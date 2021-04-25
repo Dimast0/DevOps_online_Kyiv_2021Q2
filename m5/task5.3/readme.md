@@ -120,6 +120,8 @@ Sometimes the kill command does not work because the process we want to kill is 
 - ecdsa - a new Digital Signature Algorithm standarized by the US government, using elliptic curves. Only three key sizes are supported: 256, 384, and 521 bits. Recommended using it with 521 bits, since the keys are still small. 
 - ed25519 - a new algorithm added in OpenSSH. Support for it in clients is not yet universal. 
 
+<p><img src="screenshots/16.png"/></p>
+
 **We can select the algorithm using the -t option and key size using the -b option. For example:**
 - ```ssh-keygen -t rsa -b 4096 ```
 - ```ssh-keygen -t dsa ```
