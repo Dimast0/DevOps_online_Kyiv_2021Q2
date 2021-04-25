@@ -16,7 +16,7 @@
 <p><img src="screenshots/1.png"/></p>
 
 ## 3. What is a proc file system? 
-**From RedHat Documentation:**
+**Found nice explanation in the RedHat Documentation:**
 Under Linux, all data are stored as files. We are familiar with the two primary types of files: text and binary. But the /proc/ directory contains another type of file called a virtual file. It is for this reason that /proc/ is often referred to as a virtual file system.
 
 These virtual files have unique qualities. Most of them are listed as zero bytes in size and yet when one is viewed, it can contain a large amount of information. In addition, most of the time and date settings on virtual files reflect the current time and date, indicative of the fact they are constantly updated.
@@ -53,7 +53,7 @@ We can use ```top```, ```htop```, ```pstree```.
 <p><img src="screenshots/6.png"/></p>
 
 ## 12. What interactive commands can be used to control the top command? Give a couple of examples. 
-**For example, can use:**
+**For example, we can use:**
 - Shift+N to sort by PID;
 - Shift+P to sort by CPU usage;
 - Shift+M to sort by Memory usage;
