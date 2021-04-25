@@ -133,3 +133,4 @@ Sometimes the kill command does not work because the process we want to kill is 
 
 ## 5*. Intercept (capture) traffic (tcpdump, wireshark) while authorizing the remote client on the server using ssh, telnet, rlogin. Analyze the result.
 
+finishing...
