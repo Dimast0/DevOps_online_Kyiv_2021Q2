@@ -25,7 +25,7 @@ To view information about the processor, we can take a look at the cpuinfo file 
 <p><img src="screenshots/3.png"/></p>
 
 ## 6. How to define kernel processes and user processes? 
-VSZ field is equal to 0. Kernel processes do not have their own address space, they operate within kernel address space only.
+A kernel processes always run in kernel mode and use kernel space only, when user processes have their own address space.
 
 ## 7. Print the list of processes to the terminal. Briefly describe the statuses of the processes. What condition are they in, or can they be arriving in? 
 R (running), S (interruptible sleep (waiting for an event to complete)), D (uninterruptible sleep (waiting for I/O)), T (stopped), Z (zombie), X (dead).
