@@ -70,7 +70,7 @@ In the COMMAND field when ```ps``` is executed, we see square brackets, when it 
 - C to display absolute path of command;
 
 ## 13. Sort the contents of the processes window using various parameters (for example, the amount of processor time taken up, etc.) 
-**Processes sorted by the processor time usage and tthe memory usage.**
+**Processes sorted by the CPU time usage and the memory usage.**
 
 <p><img src="screenshots/7.png"/></p>
 
