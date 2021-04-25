@@ -99,3 +99,35 @@ Sometimes the kill command does not work because the process we want to kill is 
 <p><img src="screenshots/10.png"/></p>
 
 ## PART 2
+
+## 1. Check the implementability of the most frequently used OPENSSH commands in the MS Windows operating system. (Description of the expected result of the commands + screenshots: command – result should be presented) 
+```ssh user@host``` and ```ssh-keygen``` commands work but ```ssh-copy-id user@host``` command doesn’t work in Windows.
+
+<p><img src="screenshots/111.png"/></p>
+<p><img src="screenshots/112.png"/></p>
+<p><img src="screenshots/113.png"/></p>
+
+## 2. Implement basic SSH settings to increase the security of the client-server connection (at least 
+
+<p><img src="screenshots/12.png"/></p>
+<p><img src="screenshots/13.png"/></p>
+<p><img src="screenshots/14.png"/></p>
+
+## 3. List the options for choosing keys for encryption in SSH. Implement 3 of them. 
+**SSH supports several public key algorithms for authentication keys.**
+- rsa - an old algorithm based on the difficulty of factoring large numbers. A recommended key size of at least is 2048 bits; 4096 bits is better. 
+- dsa - an old US government Digital Signature Algorithm. It is based on the difficulty of computing discrete logarithms. A key size of 1024 would normally be used with it. DSA in its original form is no longer recommended.
+- ecdsa - a new Digital Signature Algorithm standarized by the US government, using elliptic curves. Only three key sizes are supported: 256, 384, and 521 bits. Recommended using it with 521 bits, since the keys are still small. 
+- ed25519 - a new algorithm added in OpenSSH. Support for it in clients is not yet universal. 
+
+**We can select the algorithm using the -t option and key size using the -b option. For example:**
+- ```ssh-keygen -t rsa -b 4096 ```
+- ```ssh-keygen -t dsa ```
+- ```ssh-keygen -t ecdsa -b 521 ```
+- ```ssh-keygen -t ed25519```
+
+## 4. Implement port forwarding for the SSH client from the host machine to the guest Linux virtual machine behind NAT.
+<p><img src="screenshots/15.png"/></p>
+
+## 5*. Intercept (capture) traffic (tcpdump, wireshark) while authorizing the remote client on the server using ssh, telnet, rlogin. Analyze the result.
+
