@@ -184,7 +184,6 @@ s - socket device
 <p><img src="screenshots/25.png"/></p>
 
 # 14) How to determine the type of file in the system, what types of files are there? 
-<p><img src="screenshots/26.png"/></p>
 
 - Regular files ('-')
 - Directory files ('d')
@@ -194,6 +193,9 @@ s - socket device
 - Named pipe file or just a pipe file('p')
 - Symbolic link file('l')
 - Socket file('s')
+
+**We can also use the ```ls``` command. The first bit on each line denotes the type of file.**
+<p><img src="screenshots/25.png"/></p>
 
 # 15) * List the first 5 directory files that were recently accessed in the /etc directory.
 <p><img src="screenshots/27.png"/></p>
