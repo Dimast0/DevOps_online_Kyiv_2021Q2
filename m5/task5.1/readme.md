@@ -131,18 +131,26 @@
 
 <p><img src="screenshots/16.png"/></p>
 
-- **how to define soft and hard link, what do these concepts; **
+- **How to define soft and hard link, what do these concepts?**
 
-- **change the data by opening a symbolic link. What changes will happen and why** 
+**A symbolic or soft link is an actual link to the original file, whereas a hard link is a mirror copy of the original file.**
+- If we delete the original file, the soft link has no value, because it points to a non-existent file. 
+- If we delete the original file, the hard link will still has the data of the original file. 
+
+- **Change the data by opening a symbolic link. What changes will happen and why**
+
 **We can see that the labwork2 file also was modified. It happened because we had modified the file's link.**
 
 <p><img src="screenshots/17.png"/></p>
 
 - rename the hard link file to hard_lnk_labwork2;
 - rename the soft link file to symb_lnk_labwork2 file;
-- then delete the labwork2. What changes have occurred and why? 
+- **then delete the labwork2. What changes have occurred and why?**
 
 <p><img src="screenshots/18.png"/></p>
+<p><img src="screenshots/29.png"/></p>
+
+**We still can access the file through the hard link. But the file isn't available through the soft link.**
 
 # 7) Using the locate utility, find all files that contain the squid and traceroute sequence. 
 <p><img src="screenshots/19.png"/></p>
