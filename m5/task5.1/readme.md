@@ -86,6 +86,8 @@
 
 # Part 2
 # 1) Examine the tree command. Master the technique of applying a template, for example, display all files that contain a character c, or files that contain a specific sequence of characters. List subdirectories of the root directory up to and including the second nesting level. 
+**Tree is a tiny program used to recursively list the content of a directory in a tree-like format.**
+
 <p><img src="screenshots/111.png"/></p>
 
 # 2) What command can be used to determine the type of file (for example, text or binary)? Give an example. 
@@ -131,7 +133,8 @@
 
 - **how to define soft and hard link, what do these concepts; **
 
-- change the data by opening a symbolic link. What changes will happen and why 
+- **change the data by opening a symbolic link. What changes will happen and why** 
+**We can see that the labwork2 file also was modified. It happened because we had modified the file's link.**
 
 <p><img src="screenshots/17.png"/></p>
 
@@ -145,7 +148,7 @@
 <p><img src="screenshots/19.png"/></p>
 
 # 8) Determine which partitions are mounted in the system, as well as the types of these partitions. 
-** The ```df -aTh```** command provides us with the information (including the types) of all the mounted partitions.**
+** The ```df -aTh``` command provides us with the information (including the types) of all the mounted partitions.**
 
 <p><img src="screenshots/20.png"/></p>
 
