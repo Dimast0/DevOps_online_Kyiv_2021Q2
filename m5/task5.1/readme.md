@@ -97,6 +97,19 @@
 <p><img src="screenshots/13.png"/></p>
 
 # 4) Become familiar with the various options for the ls command. Give examples of listing directories using different keys. Explain the information displayed on the terminal using the -l and -a switches. 
+
+- **```-l``` displays detailed information about the files.**
+- **```-a ``` shows hidden files.**
+
+**The ```ls -l``` (```ls -la```) command displays the following information:**
+- file permissions (-rwxrw-r--),
+- number of (hard) links (1),
+- owner name (dimast),
+- owner group (dimast),
+- file size in bytes (2048),
+- time of last modification (Feb 15 09:15),
+- file/directory name.
+
 <p><img src="screenshots/14.png"/></p>
 
 # 5) Perform the following sequence of operations: 
