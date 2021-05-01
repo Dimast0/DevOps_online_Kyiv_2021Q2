@@ -86,15 +86,15 @@
 
 # Part 2
 # 1) Examine the tree command. Master the technique of applying a template, for example, display all files that contain a character c, or files that contain a specific sequence of characters. List subdirectories of the root directory up to and including the second nesting level. 
-<p><img src="screenshots/11.png"/></p>
+<p><img src="screenshots/111.png"/></p>
 
 # 2) What command can be used to determine the type of file (for example, text or binary)? Give an example. 
 **We can use ```file [filename]``` command. The output of this command not only displays the type of the specified file but also shows the type of content stored in the specified file.**
-<p><img src="screenshots/12.png"/></p>
+<p><img src="screenshots/112.png"/></p>
 
 # 3) Master the skills of navigating the file system using relative and absolute paths. How can you go back to your home directory from anywhere in the filesystem? 
 **We can use ```cd /~``` command to go back to your home directory from anywhere.**
-<p><img src="screenshots/13.png"/></p>
+<p><img src="screenshots/113.png"/></p>
 
 # 4) Become familiar with the various options for the ls command. Give examples of listing directories using different keys. Explain the information displayed on the terminal using the -l and -a switches. 
 
