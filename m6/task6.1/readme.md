@@ -19,6 +19,8 @@
 <p><img src="screenshots/6.png"/></p>
 
 # 7. Determine the default gateway for your HOST and display routing table.
+<p><img src="screenshots/7.png"/></p>
+<p><img src="screenshots/71.png"/></p>
 
 # 8. Trace the route to google.com.
 <p><img src="screenshots/8.png"/></p>
