@@ -151,8 +151,24 @@
 <p><img src="screenshots/24.png"/></p>
 
 # 13) What are the types of devices and how to determine the type of device? Give examples.
-- ```ls``` denotes block files with b.
-- ```ls``` denotes symbolic links with the letter l (link):
+**The first bit on each line of ```ls``` command denotes the type of file.**
+
+**Device files are denoted as the following:
+
+c - character device
+b - block device
+p - pipe device
+s - socket device
+
+- **Character Device - transfers data, but one a character at a time. These devices aren't really physically connected to the machine, but they allow the operating system greater functionality.**
+
+- **Block Device - transfers data, but in large fixed-sized blocks; harddrives, filesystems, etc.**
+
+- **Pipe Device - allows two or more processes to communicate with each other, these are similar to character devices, but instead of having output sent to a device, it's sent to another process.**
+
+- **Socket Device - facilitates communication between processes, similar to pipe devices but they can communicate with many processes at once.**
+
+<p><img src="screenshots/25.png"/></p>
 
 # 14) How to determine the type of file in the system, what types of files are there? 
 <p><img src="screenshots/26.png"/></p>
