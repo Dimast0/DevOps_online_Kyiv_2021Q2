@@ -29,6 +29,8 @@ For organizational purposes, files containing information on a similar topic are
 **To view information about the processor, we can take a look at the cpuinfo file in the proc directory.**
 <p><img src="screenshots/2.png"/></p>
 
+## 5*. Intercept (capture) traffic (tcpdump, wireshark) while authorizing the remote client on the server using ssh, telnet, rlogin. Analyze the result.
+(Finishing)
 ## 5. Use the ps command to get information about the process. The information should be as follows: the owner of the process, the arguments with which the process was launched for execution, the group owner of this process, etc. 
 <p><img src="screenshots/3.png"/></p>
 
