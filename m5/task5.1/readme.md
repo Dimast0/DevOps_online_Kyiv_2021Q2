@@ -151,6 +151,8 @@
 <p><img src="screenshots/24.png"/></p>
 
 # 13) What are the types of devices and how to determine the type of device? Give examples.
+- ```ls``` denotes block files with b.
+- ```ls``` denotes symbolic links with the letter l (link):
 
 # 14) How to determine the type of file in the system, what types of files are there? 
 <p><img src="screenshots/26.png"/></p>
@@ -163,7 +165,7 @@
 - Named pipe file or just a pipe file('p')
 - Symbolic link file('l')
 - Socket file('s')
--
+
 # 15) * List the first 5 directory files that were recently accessed in the /etc directory.
 <p><img src="screenshots/27.png"/></p>
 
