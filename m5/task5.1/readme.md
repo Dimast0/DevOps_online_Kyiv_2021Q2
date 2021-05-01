@@ -150,7 +150,7 @@
 - **then delete the labwork2. What changes have occurred and why?**
 
 <p><img src="screenshots/18.png"/></p>
-<p><img src="screenshots/29.png"/></p>
+<p><img src="screenshots/28.png"/></p>
 
 **We still can access the file through the hard link. But the file isn't available through the soft link.**
 
