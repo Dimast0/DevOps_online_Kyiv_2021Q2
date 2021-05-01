@@ -145,12 +145,12 @@
 <p><img src="screenshots/19.png"/></p>
 
 # 8) Determine which partitions are mounted in the system, as well as the types of these partitions. 
-**```df -aTh```**
+** The ```df -aTh```** command provides us with the information about the mounted partitions.**
 
 <p><img src="screenshots/20.png"/></p>
 
 # 9) Count the number of lines containing a given sequence of characters in a given file. 
-**Count the number of lines starting at ls in a bash_history file.**
+**Lets count the number of lines starting at ```ls``` in the bash_history file. We can use ```-c``` option.**
 <p><img src="screenshots/21.png"/></p>
 
 
