@@ -133,13 +133,13 @@
 
 - **How to define soft and hard link, what do these concepts?**
 
-**A symbolic or soft link is an actual link to the original file, whereas a hard link is a mirror copy of the original file.**
-- If we delete the original file, the soft link has no value, because it points to a non-existent file. 
-- If we delete the original file, the hard link will still has the data of the original file. 
+    A symbolic or soft link is an actual link to the original file, whereas a hard link is a mirror copy of the original file.**
+       - If we delete the original file, the soft link has no value, because it points to a non-existent file. 
+       - If we delete the original file, the hard link will still has the data of the original file. 
 
 - **Change the data by opening a symbolic link. What changes will happen and why**
 
-**We can see that the labwork2 file also was modified. It happened because we had modified the file's link.**
+    We can see that the labwork2 file also was modified. It happened because we had modified the file's link.
 
 <p><img src="screenshots/17.png"/></p>
 
