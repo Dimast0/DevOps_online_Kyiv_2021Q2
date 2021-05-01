@@ -158,7 +158,8 @@
 <p><img src="screenshots/19.png"/></p>
 
 # 8) Determine which partitions are mounted in the system, as well as the types of these partitions. 
-** The ```df -aTh``` command provides us with the information (including the types) of all the mounted partitions.**
+
+**The ```df -aTh``` command provides us with the information (including the types) of all the mounted partitions.**
 
 <p><img src="screenshots/20.png"/></p>
 
