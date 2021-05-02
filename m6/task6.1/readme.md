@@ -3,7 +3,7 @@
 <p><img src="screenshots/000.png"/></p>
 
 # 3. Check the route from VM2 to Host.
-<p><img src="screenshots/3.png"/></p>
+<p><img src="screenshots/55.png"/></p>
 
 # 4. Check the access to the Internet, (just ping, for example, 8.8.8.8).
 <p><img src="screenshots/4.png"/></p>
