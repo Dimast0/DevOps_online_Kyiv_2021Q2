@@ -5,6 +5,7 @@
 
 # 2-3. Install and configure DHCP server on VM1. (3 ways: using VBoxManage, DNSMASQ and ISC-DHSPSERVER). You should use at least 2 of them. Check VM2 and VM3 for obtaining network addresses from DHCP server.
 **Using DNSMASQ:**
+
 Config file:
 <p><img src="screenshots/2.png"/></p>
 <p><img src="screenshots/3.png"/></p>
