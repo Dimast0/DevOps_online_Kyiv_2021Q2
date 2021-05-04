@@ -12,6 +12,9 @@ Config file:
 <p><img src="screenshots/3.png"/></p>
 
 **Using VBoxManage:**
+
+```vboxmanage dhcpserver add --netname intnet --ip 192.168.20.1 --netmask 255.255.255.0 --lowerip 192.168.20.100 --upperip 192.168.20.150 --enable```
+
 <p><img src="screenshots/444.png"/></p>
 <p><img src="screenshots/445.png"/></p>
 
