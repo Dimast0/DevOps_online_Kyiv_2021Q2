@@ -11,4 +11,4 @@ Config file:
 <p><img src="screenshots/3.png"/></p>
 
 # 4-5. Using existed network for three VMs (from p.1) install and configure DNS server on VM1. (You can use DNSMASQ, BIND9 or something else). Check VM2 and VM3 for gaining access to DNS server (naming services).
-(finishing right now)
+<p><img src="screenshots/4.png"/></p>
