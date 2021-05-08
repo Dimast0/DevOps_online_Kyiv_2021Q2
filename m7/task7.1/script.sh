@@ -25,7 +25,7 @@ echo $'\nRequests|     IP     |     User Agent'
 awk -F" .* .* \[.*GET.* \"" '{print $1, $2}' $1 | sort | uniq -c | sort -gr | head -20
 
 echo $'\n6. SECOND WAY: (Just searching for "[Bb]ot" in names)'
-echo $"(But in this case, we don't get a complete list of user agents)"
+echo "(But in this case, we don't get a complete list of user agents)"
 echo $'\nRequests| User Agent'
 awk '{print $14, $16}' $1 | grep -E -o ".*[bB]ot"  | sort | uniq -c | sort -gr
 echo $'\nRequests|     IP     |     User Agent'
