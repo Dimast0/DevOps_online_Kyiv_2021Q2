@@ -11,7 +11,7 @@ grep -E -o "([0-9]{1,3}[\.]){3}[0-9]{1,3}" $1 | sort | uniq -c | sort -gr | head
 
 echo $'\n4. What non-existent pages were clients referred to?'
 echo $'\nRequests| Page'
-awk '{print $7, $9}' $1 | grep 404 | sort | uniq -c | sort -gr
+awk '{print $7, $9}' $1 | grep " 404" | sort | uniq -c | sort -gr
 
 echo $'\n5. What time did site get the most requests?'
 awk -F\: '{print $2":"$3}' $1 | sort | uniq -c | sort -gr | head -1
