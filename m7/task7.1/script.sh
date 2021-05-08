@@ -27,6 +27,6 @@ awk -F" .* .* \[.*GET.* \"" '{print $1, $2}' $1 | sort | uniq -c | sort -gr | he
 echo $'\n6. SECOND WAY: (Just searching for "[Bb]ot" in names)'
 echo $"(But in this case, we don't get a complete list of user agents)"
 echo $'\nRequests| User Agent'
-awk '{print $14, $16}' apache_logs.txt | grep -E -o ".*[bB]ot"  | sort | uniq -c | head -20
+awk '{print $14, $16}' $1 | grep -E -o ".*[bB]ot"  | sort | uniq -c | sort -gr
 echo $'\nRequests|     IP     |     User Agent'
-awk '{print $1, $14, $16}' apache_logs.txt | grep -E -o ".*[bB]ot" | sort | uniq -c | sort -gr | head -20
+awk '{print $1, $14, $16}' $1 | grep -E -o ".*[bB]ot" | sort | uniq -c | sort -gr | head -20
