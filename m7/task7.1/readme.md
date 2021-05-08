@@ -7,5 +7,7 @@
 5. What time did site get the most requests?
 6. What search bots have accessed the site? (UA + IP)
 
+**For convenience, I implemented all 6 tasks in one script. If needed, it can be split into 6 separate scripts.**
+
 <p><img src="screenshots/1.png"/></p>
 <p><img src="screenshots/2.png"/></p>
